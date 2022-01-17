@@ -71,6 +71,6 @@ persist.data.netmgrd.qos.enable=true
 persist.data.mode=concurrent
 
 #Havoc props
-ro.havoc.group.url=https://t.me/havoc_pixel2
+ro.havoc.group.url=https://t.me/+Z5vCCaoW795mY2Rl
 ro.havoc.maintainer=Saurabh Jarial
 ro.havoc.maintainer.username=bravesoul349
